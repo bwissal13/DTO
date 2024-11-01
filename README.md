@@ -59,7 +59,7 @@ EmployeeProject/
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/username/EmployeeProject.git
+   git clone https://github.com/bwissal13/DTO.git
    ```
 
 2. Installez les dépendances :
